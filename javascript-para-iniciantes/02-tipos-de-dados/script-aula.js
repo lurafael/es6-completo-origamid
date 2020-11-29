@@ -17,7 +17,6 @@ console.log(typeof time); // boolean
 console.log(typeof simbolo); // symbol
 
 //Somar strings para concatenar palavras 
-
 var nome = 'Lucas';
 var sobrenome = 'Ricci';
 var nomeCompleto = nome + ' ' + sobrenome;
@@ -45,7 +44,7 @@ console.log(+numero1 + numero2) // 2026
 'JavaScript é "super" fácil';
 "JavaScript é 'super' fácil";
 "JavaScript é \"super\" fácil"; //Escapando aspas duplas
-`JavaScript é "super" fácil"`;
+`JavaScript é "super" fácil`;
 // "JavaScript é "super" fácil"; // Inválido
 
 
