@@ -22,17 +22,26 @@ function isPair(number) {
 
 // Crie uma função que retorne o tipo de
 // dado do argumento passado nela (typeof)
+function dataType(data) {
+  return typeof data;
+}
+
 // addEventListener é uma função nativa do JavaScript
-// o primeiro parâmetro é o evento que ocorre e o segundo o Callb
-// utilize essa função para mostrar no console o seu nome complet
+// o primeiro parâmetro é o evento que ocorre e o segundo o Callback
+// utilize essa função para mostrar no console o seu nome completo
 // quando o evento 'scroll' ocorrer.
+document.addEventListener('scroll', () => console.log('Lucas Rafael Ricci'));
+
 // Corrija o erro abaixo
-// function precisoVisitar(paisesVisitados) {
-//   var totalPaises = 193;
-//   return `Ainda faltam ${totalPaises - paisesVisitados} países pa
-//  }
-//  function jaVisitei(paisesVisitados) {
-//   return `Já visitei ${paisesVisitados} do total de ${totalPaises
-//  }
-//  precisoVisitar(20);
-//  jaVisitei(20);
+var totalPaises = 193;
+
+function precisoVisitar(paisesVisitados) {
+  return `Ainda faltam ${totalPaises - paisesVisitados} países para visitar`;
+}
+
+function jaVisitei(paisesVisitados) {
+  return `Já visitei ${paisesVisitados} do total de ${totalPaises}`
+}
+
+precisoVisitar(20);
+jaVisitei(20);

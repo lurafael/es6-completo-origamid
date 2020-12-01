@@ -42,7 +42,7 @@ var faltaVisitar = (paisesVisitados) => {
 };
 
 console.log(faltaVisitar(20));
-console.log(totalPaises); //Não consigo chamar, pois essa variável só existe no escopo da função
+// console.log(totalPaises); Não consigo chamar, pois essa variável só existe no escopo da função
 
 //Funções conseguem pegar variáveis que foram criadas no contexto "Pai",
 //mesmo que fora do escopo dela.
