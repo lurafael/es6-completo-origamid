@@ -14,4 +14,8 @@ h1Element.appendChild(document.createTextNode('Hello, world!'));
 console.log(h1Element.parentNode);
 console.log(h1Element.nodeType);
 
-//Falta mais um
+//Busque na web um objeto (método) capaz de interagir com o clipboard
+//Clipboard é a parte do seu computador que lida com o CTRL + C
+
+// Manual: https://www.w3schools.com/howto/howto_js_copy_clipboard.asp
+// Biblioteca: https://clipboardjs.com/

@@ -1,2 +1,1 @@
-//Estudar os construtores:
-// String, Object, Array, Function
+//Quando criamos um objeto, esse objeto herda todas as propriedades e métodos do construtor de objetos Object, mesma coisa quando criamos um array, string, function... Tudo é objeto, ou seja, sempre herdarão dos seus construtores e poderão ser acessados através do "."
