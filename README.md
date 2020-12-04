@@ -21,8 +21,8 @@
 - [x] 1.5 - Funções [Clique aqui](https://github.com/lurafael/es6-completo-origamid/blob/main/javascript-para-iniciantes/05-funcoes) :heavy_check_mark:
 - [x] 1.6 - Objetos [Clique aqui](https://github.com/lurafael/es6-completo-origamid/blob/main/javascript-para-iniciantes/06-objetos) :heavy_check_mark:
 - [x] 1.7 - Tudo é Objeto [Clique aqui](https://github.com/lurafael/es6-completo-origamid/blob/main/javascript-para-iniciantes/07-tudo-e-objeto) :heavy_check_mark:
-- [x] 1.8 - Arrays e Loops [Clique aqui](https://github.com/lurafael/es6-completo-origamid/blob/main/javascript-para-iniciantes/) :heavy_check_mark:
-- [x] 1.9 - Atribuição e Ternário [Clique aqui](https://github.com/lurafael/es6-completo-origamid/blob/main/javascript-para-iniciantes/) :heavy_check_mark:
-- [x] 1.10 - Escopo [Clique aqui](https://github.com/lurafael/es6-completo-origamid/blob/main/javascript-para-iniciantes/) :heavy_check_mark:
+- [x] 1.8 - Arrays e Loops [Clique aqui](https://github.com/lurafael/es6-completo-origamid/blob/main/javascript-para-iniciantes/08-arrays-e-loops) :heavy_check_mark:
+- [x] 1.9 - Atribuição e Ternário [Clique aqui](https://github.com/lurafael/es6-completo-origamid/blob/main/javascript-para-iniciantes/09-atribuicao-e-ternario) :heavy_check_mark:
+- [x] 1.10 - Escopo [Clique aqui](https://github.com/lurafael/es6-completo-origamid/blob/main/javascript-para-iniciantes/10-escopo) :heavy_check_mark:
 
 Feito com :purple_heart: by [Lucas Ricci](https://www.linkedin.com/in/lucasrafaelricci/).
