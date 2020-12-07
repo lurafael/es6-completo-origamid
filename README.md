@@ -14,15 +14,19 @@
 
 ## 1. JavaScript para iniciantes
 
-- [x] 1.1 - Variáveis [Clique aqui](https://github.com/lurafael/es6-completo-origamid/blob/main/javascript-para-iniciantes/01-variaveis) :heavy_check_mark:
-- [x] 1.2 - Tipos de dados [Clique aqui](https://github.com/lurafael/es6-completo-origamid/blob/main/javascript-para-iniciantes/02-tipos-de-dados) :heavy_check_mark:
-- [x] 1.3 - Números e Operadores [Clique aqui](https://github.com/lurafael/es6-completo-origamid/blob/main/javascript-para-iniciantes/03-numeros-e-operadores) :heavy_check_mark:
-- [x] 1.4 - Boolean e Condicionais [Clique aqui](https://github.com/lurafael/es6-completo-origamid/blob/main/javascript-para-iniciantes/04-boolean-e-condicionais) :heavy_check_mark:
-- [x] 1.5 - Funções [Clique aqui](https://github.com/lurafael/es6-completo-origamid/blob/main/javascript-para-iniciantes/05-funcoes) :heavy_check_mark:
-- [x] 1.6 - Objetos [Clique aqui](https://github.com/lurafael/es6-completo-origamid/blob/main/javascript-para-iniciantes/06-objetos) :heavy_check_mark:
-- [x] 1.7 - Tudo é Objeto [Clique aqui](https://github.com/lurafael/es6-completo-origamid/blob/main/javascript-para-iniciantes/07-tudo-e-objeto) :heavy_check_mark:
-- [x] 1.8 - Arrays e Loops [Clique aqui](https://github.com/lurafael/es6-completo-origamid/blob/main/javascript-para-iniciantes/08-arrays-e-loops) :heavy_check_mark:
-- [x] 1.9 - Atribuição e Ternário [Clique aqui](https://github.com/lurafael/es6-completo-origamid/blob/main/javascript-para-iniciantes/09-atribuicao-e-ternario) :heavy_check_mark:
-- [x] 1.10 - Escopo [Clique aqui](https://github.com/lurafael/es6-completo-origamid/blob/main/javascript-para-iniciantes/10-escopo) :heavy_check_mark:
+- [x] 1.1 - Variáveis [Clique aqui](https://github.com/lurafael/es6-completo-origamid/blob/main/01-javascript-para-iniciantes/01-variaveis) :heavy_check_mark:
+- [x] 1.2 - Tipos de dados [Clique aqui](https://github.com/lurafael/es6-completo-origamid/blob/main/01-javascript-para-iniciantes/02-tipos-de-dados) :heavy_check_mark:
+- [x] 1.3 - Números e Operadores [Clique aqui](https://github.com/lurafael/es6-completo-origamid/01-blob/main/01-javascript-para-iniciantes/03-numeros-e-operadores) :heavy_check_mark:
+- [x] 1.4 - Boolean e Condicionais [Clique aqui](https://github.com/lurafael/es6-completo-origamid/blob/main/01-javascript-para-iniciantes/04-boolean-e-condicionais) :heavy_check_mark:
+- [x] 1.5 - Funções [Clique aqui](https://github.com/lurafael/es6-completo-origamid/blob/main/01-javascript-para-iniciantes/05-funcoes) :heavy_check_mark:
+- [x] 1.6 - Objetos [Clique aqui](https://github.com/lurafael/es6-completo-origamid/blob/main/01-javascript-para-iniciantes/06-objetos) :heavy_check_mark:
+- [x] 1.7 - Tudo é Objeto [Clique aqui](https://github.com/lurafael/es6-completo-origamid/blob/main/01-javascript-para-iniciantes/07-tudo-e-objeto) :heavy_check_mark:
+- [x] 1.8 - Arrays e Loops [Clique aqui](https://github.com/lurafael/es6-completo-origamid/blob/main/01-javascript-para-iniciantes/08-arrays-e-loops) :heavy_check_mark:
+- [x] 1.9 - Atribuição e Ternário [Clique aqui](https://github.com/lurafael/es6-completo-origamid/blob/main/01-javascript-para-iniciantes/09-atribuicao-e-ternario) :heavy_check_mark:
+- [x] 1.10 - Escopo [Clique aqui](https://github.com/lurafael/es6-completo-origamid/blob/main/01-javascript-para-iniciantes/10-escopo) :heavy_check_mark:
+
+## 2. DOM para iniciantes
+
+- [x] 1.1 - O que é DOM? [Clique aqui](https://github.com/lurafael/es6-completo-origamid/blob/main/02-dom-para-iniciantes/01-o-que-e-dom) :heavy_check_mark:
 
 Feito com :purple_heart: by [Lucas Ricci](https://www.linkedin.com/in/lucasrafaelricci/).
