@@ -12,6 +12,8 @@
   </a>
 </p>
 
+## Projeto feito durante o curso [Clique aqui para ver](https://github.com/lurafael/pets-fantasticos/) Em desenvolvimento... :hourglass_flowing_sand:
+
 ## 1. JavaScript para iniciantes
 
 - [x] 1.1 - Variáveis [Clique aqui](https://github.com/lurafael/es6-completo-origamid/blob/main/01-javascript-para-iniciantes/01-variaveis) :heavy_check_mark:
@@ -28,5 +30,10 @@
 ## 2. DOM para iniciantes
 
 - [x] 1.1 - O que é DOM? [Clique aqui](https://github.com/lurafael/es6-completo-origamid/blob/main/02-dom-para-iniciantes/01-o-que-e-dom) :heavy_check_mark:
+
+- [x] 1.2 - HTML e CSS do Projeto [Clique aqui](https://github.com/lurafael/es6-completo-origamid/blob/main/02-dom-para-iniciantes/01-o-que-e-dom) :heavy_check_mark:
+
+- [x] 1.2 - Selecionar o DOM [Clique aqui](https://github.com/lurafael/es6-completo-origamid/blob/main/02-dom-para-iniciantes/03-selecionar-o-dom) :heavy_check_mark:
+
 
 Feito com :purple_heart: by [Lucas Ricci](https://www.linkedin.com/in/lucasrafaelricci/).
