@@ -26,7 +26,7 @@ const comecaComHash = document.querySelectorAll('[href^="#"]'); //Procura em tod
 console.log(comecaComHash);
 
 //Lembrando que a atualização do getElement é ao vivo, então sempre que for adicionado algo ao HTMl, será
-//atualizado também no array-like de itens caso haja um, já o querySelector e querySelectorAll não é estático
+//atualizado também no array-like de itens caso haja um, já o querySelector e querySelectorAll não, é estático.
 const gridSectionHTML = document.getElementsByClassName('grid-section');
 const gridSectionNode = document.querySelectorAll('.grid-section');
 

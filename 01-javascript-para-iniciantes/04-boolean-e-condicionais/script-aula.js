@@ -12,9 +12,10 @@ var possuiMestrado = NaN;
 
 if(possuiMestrado)
   console.log('É verdadeiro');
-else 
+else {
   console.log('possuiMestrado foi:'); 
   console.log('false, 0, "" (porque com espaço " " é true), null, undefined, ou NaN');
+}
 
 //Operador lógico
 //Operador ! nega qualquer ação, inclusive converte para booleano os valores contidos nas variáveis

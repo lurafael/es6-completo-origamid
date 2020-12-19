@@ -14,4 +14,4 @@ const el = document.querySelector('title');
 
 console.log(el); //uso o console.dir para ver os métodos e propriedades contidos no el
 
-//Quando vier um elemento, vai herdar props e métodos do Element, quando vier um array, herda do Array, quando for nodelist herda do nodelis e assim por diante, então dependendo do resultado obtido, muda-se a quantidade e tipos de props e métodos.
+//Quando vier um elemento, vai herdar props e métodos do Element, quando vier um array, herda do Array, quando for nodelist herda do nodelist e assim por diante, então dependendo do resultado obtido, muda-se a quantidade e tipos de props e métodos.

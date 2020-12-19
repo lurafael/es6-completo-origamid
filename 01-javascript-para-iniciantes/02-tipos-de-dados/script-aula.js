@@ -9,7 +9,6 @@ var novoObjeto = {}          // Object
 
 //Verificar tipos com o typeof
 //Posso usar a chave typeof para saber o tipo de dados primitivos, exemplo:
-
 console.log(typeof nome); // string
 console.log(typeof idade); // number
 console.log(typeof possuiFaculdade); // boolean

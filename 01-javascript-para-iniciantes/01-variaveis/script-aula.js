@@ -23,7 +23,6 @@ console.log(sobrenome, cidade, estado) // Ricci, Santa Ernestina, São Paulo
 
 //Hoisting 
 //Move as declarações para cima do código, mas só atribui o valor na linha correspondente
-
 console.log(comida);  // comida is not defined
 var comida = 'Pizza'; // Agora o resultado é undefined, pois foi feito o hoisting 
 console.log(comida);  // Pizza
@@ -36,4 +35,4 @@ console.log(comida);  // Pizza
 
 //const além de não deixar redeclarar, não deixa modificar o valor por se tratar de uma constante
 // const cidade = 'Santa Ernestina'; // Santa Ernestina
-// cidade = 'Taquaritinga'; // Identifier 'cidade' has already been declared
+// cidade = 'Taquaritinga'; // Assignment to constant variable.

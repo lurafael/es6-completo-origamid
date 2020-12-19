@@ -10,7 +10,7 @@ console.log(pessoa.idade);    // 28
 console.log(pessoa.estudaJS); // true
 
 //Desestruturação de objeto - Só pra lembrar, não tem isso no curso
-const { nome, idade, estudaJS, perimetro } = pessoa;
+const { nome, idade, estudaJS } = pessoa;
 
 console.log(nome, idade, estudaJS); // Lucas 28 true
 
