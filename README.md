@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="JavaScript Origamid" src="https://bit.ly/33S9Uf5" width="800px" />
+    <img alt="JavaScript Origamid" src="https://scontent.fsjp3-1.fna.fbcdn.net/v/t31.0-8/18278155_1335288956537288_7397950741661673792_o.png?_nc_cat=110&ccb=2&_nc_sid=e3f864&_nc_ohc=grjBYhRDDqwAX9BWY14&_nc_oc=AQnFOql-CiS0TFs3Ug-h0-wLTsy1GKLZ3Xxm_o9-fOvPQHs3xMuSDpEkzkxyALNxG7Q&_nc_ht=scontent.fsjp3-1.fna&oh=c50e840c2e10455807604c41f003e86b&oe=60196F42" width="800px" />
 </h1>
 
 <h3 align="center">
@@ -31,7 +31,9 @@
 
 - [x] 1.1 - O que é DOM? [Clique aqui](https://github.com/lurafael/es6-completo-origamid/blob/main/02-dom-para-iniciantes/01-o-que-e-dom) :heavy_check_mark:
 - [x] 1.2 - HTML e CSS do Projeto [Clique aqui](https://github.com/lurafael/es6-completo-origamid/blob/main/02-dom-para-iniciantes/01-o-que-e-dom) :heavy_check_mark:
-- [x] 1.2 - Selecionar o DOM [Clique aqui](https://github.com/lurafael/es6-completo-origamid/blob/main/02-dom-para-iniciantes/03-selecionar-o-dom) :heavy_check_mark:
+- [x] 1.3 - Selecionar o DOM [Clique aqui](https://github.com/lurafael/es6-completo-origamid/blob/main/02-dom-para-iniciantes/03-selecionar-o-dom) :heavy_check_mark:
+- [x] 1.4 - ForEach e Arrow Functions [Clique aqui](https://github.com/lurafael/es6-completo-origamid/blob/main/02-dom-para-iniciantes/04-foreach-e-arrow-functions) :heavy_check_mark:
+- [x] 1.5 - Classes e Atributos [Clique aqui](https://github.com/lurafael/es6-completo-origamid/blob/main/02-dom-para-iniciantes/05-classes-e-atributos) :heavy_check_mark:
 
 
 Feito com :purple_heart: by [Lucas Ricci](https://www.linkedin.com/in/lucasrafaelricci/).
